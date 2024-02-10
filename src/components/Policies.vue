@@ -3,7 +3,7 @@
     class="d-flex flex-column align-center justify-center text-left pl-16"
     height="100%"
   >
-    <h1 class="text-h1 font-weight-black text-teal-lighten-1 my-8 text-center">Cancellation and Deposit Policies</h1>
+    <h1 class="text-h1 text-md-h2 text-sm-h3 font-weight-black text-teal-lighten-1 my-8 text-center">Cancellation and Deposit Policies</h1>
     <v-container>
       <h4 class="text-h4">Deposits</h4>
       <p class="text-body-1 text-left mb-8">All deposits are non-refundable. This is because my time scheduling and drawing needs to be compensated.</p>
