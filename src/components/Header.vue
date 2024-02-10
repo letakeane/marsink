@@ -36,10 +36,6 @@
       <v-spacer />
       <v-divider />
       <v-spacer />
-      <v-list-item prepend-icon="mdi-instagram" href="https://instagram.com/claudia___mars" target="_blank">insta</v-list-item>
-      <v-list-item prepend-icon="mdi-clock" href="https://www.tiktok.com/@claudia_mars_" target="_blank">
-        tiktok
-      </v-list-item>
     </v-list>
   </v-navigation-drawer>
 </template>
